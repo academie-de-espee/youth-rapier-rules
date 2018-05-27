@@ -42,7 +42,12 @@ Marshals for Youth Rapier exist within the structure established under the Crown
         1. Is allowed to teach the pre-authorization class
         2. Is allowed to authorize youth combatants in all weapon combinations
         3. It is strongly suggested that a Youth Rapier Marshal have a current authorization to marshal Adult Rapier combat.
-2. Marshallate responsibilities
+2. Requirements to become a Youth Rapier Marshal
+    1. In addition to completing the Apprentice Marshal process, youth rapier marshals must do the following:
+        1. Maintain an active Rapier Marshal warrant
+        2. Maintain an active SCA background check
+        3. Take the Youth Rapier Marshal 101 class at least once every two years.
+3. Marshallate responsibilities
     1. All Youth Rapier Marshals are required to attend the following classes:
         1. Rapier Marshal 101
         2. Youth Rapier Marshal 101
