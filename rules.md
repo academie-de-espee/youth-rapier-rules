@@ -45,7 +45,7 @@ Marshals for Youth Rapier exist within the structure established under the Crown
         1. Maintain an active Rapier Marshal warrant
         2. Maintain an active SCA background check
         3. Take the Youth Rapier Marshal 101 class at least once every two years.
-3. Youth rapier marshals are responsible for the following:
+3. In addition to normal marshal responsibilities, youth rapier marshals are responsible for the following:
     1. Teach the pre-authorization class to potential parents and youth combatants.
     2. Perform authorizations in all divisions
     3. Perform inspections prior to combat, in the presence of the parent or legal guardian of the combatant.
