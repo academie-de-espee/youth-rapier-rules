@@ -3,8 +3,8 @@
 The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practiced in various fencing schools of Europe during the 15th and 16th centuries. This combat will be one-on-one, and will be used to train younger students in the art of combat with those bated rapiers and various secondaries.  All participants in youth rapier in Atlantia are expected to read and understand these rules before authorization, and are expected to know any changes or updates that occur. Their parents/ legal guardians should read and understand these rules and standards and make sure that their child follows them.
 
 ## General
-1.  Youths participants must be at least 6, but less than 18 years old to participate in Atlantian Youth Rapier.
-2. A warranted Youth Rapier Marshal must be present and actively participating at all Youth Rapier activities.
+1. Youths participants must be at least 6, but less than 18 years old to participate in Atlantian Youth Rapier.
+2. A warranted Youth Rapier Marshal and at least one additional unrelated adult must be actively observing all youth rapier activities.
 3. Youth participants must have a Youth Rapier Authorization to participate in tournaments. See Authorization and Training for more information.
 4. To participate in training, practice or in tournament a youth must:
     1. Show a blue SCA membership card OR
@@ -48,7 +48,6 @@ Marshals for Youth Rapier exist within the structure established under the Crown
         2. Maintain an active SCA background check
         3. Take the Youth Rapier Marshal 101 class at least once every two years.
 3. Marshallate responsibilities
-    1. A Youth Rapier Marshal and at least one additional unrelated adult must be actively observing all youth rapier activities.
     4. Rapier marshals are responsible for combat safety. This includes, but is not limited to, checking weapons and equipment, observing combat, warning a combatant of inappropriate or dangerous actions, disallowing dangerous weapons, and, if necessary, removing a combatant from the field.
     5. The marshals on the field are expected to take an active role in safety, sportsmanship, and assistance with blow calling.
     6. Before any combat, Youth Rapier Marshals, in the presence of the parent or legal guardian, must inspect the gear of all the participants to ensure it is safe and functional. Before each bout the responsible adult and the marshal(s) on the field should take a moment to glance over each participant to be sure their equipment is properly in place and to assure that no real weapons are carried on the field.
