@@ -6,14 +6,16 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 1. Youths participants must be at least 6, but less than 18 years old to participate in Atlantian Youth Rapier.
 2. A warranted Youth Rapier Marshal and at least one additional unrelated adult must be actively observing all youth rapier activities, including training, sparring, and combat.
 3. Youth participants must have a Youth Rapier Authorization to participate in tournaments. See Authorization and Training for more information.
-4. To participate in training, practice or in tournament a youth must:
+4. To participate in any aspect of youth rapier, a youth must:
     1. Show a blue SCA membership card OR
-    2. The Youth's Responsible Adult, per 3.8.3.1, may sign a Minors Consent to Participate Form for the youth for each event or practice.
+    2. Have a signed Minor's Consent to Participate Form The Youth's Responsible Adult, per 3.8.3.1, may sign a Minors Consent to Participate Form for the youth for each event or practice.
 5. To participate in training, practice or in tournament a youth must have their Responsible Adult, per 3.8.3.1, present.
 
 ## Authorization and Training
 1. Adults may work with youths in controlled practice or training situations.
-2. Youths need not be authorized to practice or train. Youths must have a Permission to Practice card as issued by the MOL office to practice at official practices. Youths must be authorized by the Youth Rapier Marshallate to participate in tournaments.
+2. Youths need not be authorized to practice or train.
+3. Youths must have a "Permission to Practice" card as issued by the MOL office to practice or train rapier combat.
+3. Youths must be authorized in their current division of youth rapier to participate in tournaments or melees.
 3. Youth rapier fighters and their parents/ legal guardian must attend the youth rapier fighter class prior to their first authorization.
 4. Participants will be divided into the following divisions:
     1. Division 1 will be for youths ages 6-9, and may authorize in plastic rapier.
