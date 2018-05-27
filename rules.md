@@ -4,7 +4,7 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 
 ## General
 1.  Youths participants must be at least 6, but less than 18 years old to participate in Atlantian Youth Rapier.
-2. An authorized Youth Rapier Marshal must be present and actively participating at all Youth Rapier activities.
+2. A warranted Youth Rapier Marshal must be present and actively participating at all Youth Rapier activities.
 3. Youth participants must have a Youth Rapier Authorization to participate in tournaments. See Authorization and Training for more information.
 4. To participate in training, practice or in tournament a youth must:
     1. Show a blue SCA membership card OR
