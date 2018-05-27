@@ -48,12 +48,7 @@ Marshals for Youth Rapier exist within the structure established under the Crown
         2. Maintain an active SCA background check
         3. Take the Youth Rapier Marshal 101 class at least once every two years.
 3. Marshallate responsibilities
-    1. All Youth Rapier Marshals are required to attend the following classes:
-        1. Rapier Marshal 101
-        2. Youth Rapier Marshal 101
-        3. Field Marshal 201
-    2. At least one (1) Youth Rapier Marshal must be present for any practice bouts.
-    3. At least (1) Youth Rapier Marshal and one other Youth Rapier Marshal or Youth Rapier Marshal-in-training must be on the field for any tournament rapier bout. (The Adult Rapier Marshal warrant is NOT a substitute for the Youth Rapier Marshal warrant.)
+    1. A Youth Rapier Marshal and at least one additional unrelated adult must be actively observing all youth rapier activities.
     4. Rapier marshals are responsible for combat safety. This includes, but is not limited to, checking weapons and equipment, observing combat, warning a combatant of inappropriate or dangerous actions, disallowing dangerous weapons, and, if necessary, removing a combatant from the field.
     5. The marshals on the field are expected to take an active role in safety, sportsmanship, and assistance with blow calling.
     6. Before any combat, Youth Rapier Marshals, in the presence of the parent or legal guardian, must inspect the gear of all the participants to ensure it is safe and functional. Before each bout the responsible adult and the marshal(s) on the field should take a moment to glance over each participant to be sure their equipment is properly in place and to assure that no real weapons are carried on the field.
