@@ -26,6 +26,7 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
     1. Biological parents, adoptive parents, or any court appointed legal guardian may always work with their youths.
     1. Adults authorized in light rapier may work with youths in Division 1 or Division 2 in controlled practice or training situations.
     1. Adults authorized in heavy rapier may work with youths in Division 3 using heavy rapier in controlled practice or training situations.
+8. Any youth authorized in adult rapier may not hold a youth rapier authorization.
 
 
 ## Conventions of Combat
