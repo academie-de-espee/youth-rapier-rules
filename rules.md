@@ -13,14 +13,14 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 
 ## Authorization and Training
 1. Adults may work with youths in controlled practice or training situations.
-3. Youths must have a "Permission to Practice" card as issued by the MOL office to practice or train rapier combat.
+2. Youths must have a "Permission to Practice" card as issued by the MOL office to practice or train rapier combat.
 3. Youths must be authorized in their current division of youth rapier to participate in tournaments or melees.
-3. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
-4. Participants will be divided into the following divisions:
+4. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
+5. Participants will be divided into the following divisions:
     1. Division 1 will be for youths ages 6-9, and may authorize in plastic rapier.
     2. Division 2 will be for youths ages 10-13, and may authorize in plastic rapier and light rapier.
     3. Division 3 will be for youths ages 14-17, and may authorize in light rapier and heavy rapier.
-5. In tournaments, youths will compete with those from the same division.
+6. In tournaments, youths will compete with those from the same division.
     1. Youth rapier combat will be conducted one-on-one for fighters in any division. Only those youth fighters in Division 3 may participate in melees.
 
 ## Conventions of Combat
