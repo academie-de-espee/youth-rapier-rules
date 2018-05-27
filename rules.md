@@ -22,39 +22,12 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 5. In tournaments, youths will compete with those from the same division.
     1. Youth rapier combat will be conducted one-on-one for fighters in any division. Only those youth fighters in Division 3 may participate in melees.
 
-## Rules of the Field
-1. Youth rapier will not be conducted on the same field at the same time as any other activities.
-2. The entire body is a valid target.
-3. Blows are to be struck by thrusting with the tip or slicing with the edge of the blade. Slapping with the blade or percussive blows are not allowed.
-4. Valid blows:
-    1. Thrust: Any thrust that strikes with positive pressure in line with the blade.
-    2. Draw Cut: Anywhere the edge of the epee blade slides at least 6 inches when drawn across any body part is a valid blow. Cuts may not be performed with foil blades. If one fighter is using a foil and one an epee then the fighters must agree beforehand how or if cuts will be used.
-    3. Fighters may call blows as having a greater effect than is required by these rules.
-5. Acknowledgment of Blows:
-    1. Youths shall acknowledge all valid blows per the following:
-        1. A blow to the torso, head or neck will end the fight, resulting in defeat for the recipient.
-        2. A blow to the Brachial artery (arm pit and inside upper arm down to one hand's width from the armpit) will end the fight, resulting in defeat for the recipient.
-        3. A blow to the Femoral artery (inside of thigh down to one hand's width from the leg crease) will end the fight, resulting in defeat for the recipient.
-        4. A blow to the arm will disable that arm.
-        5. A blow to the hand will disable the hand, but not the entire arm.
-        6. A blow to the leg or foot will disable that leg and ground the recipient. A grounded combatant will sit on the ground to continue the fight and may not rise from that position.
-    2. Participants may, at their discretion, yield at any time.
-6. A combatant may not attack a grounded opponent from the far sides or from behind (more than 90 degrees either way from the direction the grounded opponent is facing).
-7. An open hand may be used to parry an opponent's weapon or secondary. However, it may not be used to strike an opponent or grasp an opponent's weapon or equipment.
-8. Some actions are not allowed because they are unsafe and are grounds for removal from the field or from the Atlantian Youth Rapier Program for a time specified by the marshal. These include, but are not limited to:
-    1. Punching, kicking, shoving, tripping, or grabbing an opponent or his weapons
-    2. Whipping or chopping with a weapon
-    3. Striking or pressing an opponent with any piece of equipment not approved for such use
-    4. Throwing a weapon or other piece of equipment not approved for such use
-    5. Hitting with excessive force
-9. Conduct by either a fighter, or responsible adult, per 3.8.3.1, that is obstructive to normal rapier activities is not allowed and is grounds for removal of the fighter from the field or from the Atlantian Youth Rapier Program for a time specified by the marshal. These include, but are not limited to:
-    1. Consistently ignoring blows
-    2. Deliberate misuse of the rules (purposefully retreating into the ropes, calling "Hold" when pressed, or ignoring another fighter's attempt to engage you)
-    3. Striking an opponent who is unaware of your presence
-    4. Any other action the marshal’s feel is obstructive
-10. No real weapon (live steel) will be allowed upon the field at any time during combat.
-11. Engaging in youth rapier with the deliberate intent to inflict injury on an opponent is strictly forbidden.
-12. Upon hearing the call of “Hold” all fighting shall immediately stop.  The fighters shall freeze, check for hazards in their immediate vicinity, and then assume a non-threatening position with their weapons pointed away from their opponents. "Hold" will be called by the marshals or any others present, including fighters, on the field, when unsafe or obstructive actions are noticed or any other significant concern is manifest.
+## Conventions of Combat
+1. Youth rapier follows the rapier conventions of combat for Atlantia with the following modifications:
+    1. Youth rapier will not be conducted on the same field at the same time as any other activities.
+
+## Rules of the List
+1. Youth rapier follows the rapier rules of the list for Atlantia.
 
 ## Weapons and Armor Standards
 1. Atlantia follows the Corporate Rules for Youth Rapier found at the Society Youth Marshals Web Site at http://www.sca.org/officers/marshal/youthcombat/docs.html, with the following modifications:
