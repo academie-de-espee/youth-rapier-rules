@@ -36,27 +36,21 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 ## Marshaling
 Marshals for Youth Rapier exist within the structure established under the Crown and Earl Marshal of Atlantia. All marshals for Youth rapier activities are warranted, have authority and are expected to conduct themselves as warranted marshals of this Kingdom, according to Kingdom Law and the Policies of the Earl Marshal.
 
-1. Youth Rapier Marshals: The Kingdom Youth Rapier Marshal will be responsible for issuing Youth Rapier Marshal and Junior Youth Rapier Marshal warrants.
+1. Youth Rapier Marshals: The Kingdom Youth Rapier Marshal will be responsible for issuing Youth Rapier Marshal warrants.
     1. A warranted Youth Rapier Marshal is a person at least age 18 who in addition to their reporting duties as a kingdom or atlarge officer:
         1. Is an authorized Youth Rapier Marshal
         2. Is allowed to teach the pre-authorization class
         3. Is allowed to authorize youth combatants in all weapon combinations
         4. It is strongly suggested that a Youth Rapier Marshal have a current authorization to marshal Adult Rapier combat.
-    2. A Junior Youth Rapier Marshal is a person aged 14-17 authorized to, under supervision of a Youth Rapier Marshal:
-        1. Marshal on the field of Youth Rapier combat
-        2. Inspect weapons and armor for Youth Rapier combat
 2. Marshallate responsibilities
-    1. All Youth Rapier Marshals and Junior Youth Rapier Marshals are required to attend prewarranting classes. These consist of Field Marshal 201, the Rapier Marshal 101 class, and the appropriate youth marshal class(es).
+    1. All Youth Rapier Marshals are required to attend prewarranting classes. These consist of Field Marshal 201, the Rapier Marshal 101 class, and the appropriate youth marshal class(es).
     2. At least one (1) Youth Rapier Marshal must be present for any practice bouts.
-    3. At least (1) Youth Rapier Marshal and one other Youth Rapier Marshal, Junior Youth Rapier Marshal or Youth Rapier Marshal-in-training must be on the field for any tournament rapier bout. (The Adult Rapier Marshal warrant is NOT a substitute for the Youth Rapier Marshal warrant.)
+    3. At least (1) Youth Rapier Marshal and one other Youth Rapier Marshal or Youth Rapier Marshal-in-training must be on the field for any tournament rapier bout. (The Adult Rapier Marshal warrant is NOT a substitute for the Youth Rapier Marshal warrant.)
     4. Rapier marshals are responsible for combat safety. This includes, but is not limited to, checking weapons and equipment, observing combat, warning a combatant of inappropriate or dangerous actions, disallowing dangerous weapons, and, if necessary, removing a combatant from the field.
     5. The marshals on the field are expected to take an active role in safety, sportsmanship, and assistance with blow calling.
     6. Before any combat, Youth Rapier Marshals, in the presence of the parent or legal guardian, must inspect the gear of all the participants to ensure it is safe and functional. Before each bout the responsible adult and the marshal(s) on the field should take a moment to glance over each participant to be sure their equipment is properly in place and to assure that no real weapons are carried on the field.
     7. The inspecting marshals will reject any weapons not following these rules or any equipment they feel is unsafe.
-    8. Combat Marshalling.
-        1. One (1) of the Youth Rapier Marshals on the field will be the designated MIC and the other marshal(s) on the field will be assisting marshal(s).
-        2. It is suggested to allow Junior Youth Rapier Marshals as much control and authority over combat as possible, however the final responsibility on the field is with the MIC.
-        3. Any adult marshal may override the decision of a Junior Rapier Marshal.
+    8. One (1) of the Youth Rapier Marshals on the field will be the designated MIC and the other marshal(s) on the field will be assisting marshal(s).
     9. Before the marshals may begin a bout, they must receive a verbal acknowledgment from each participant declaring their readiness to begin.
     10. Anyone who sees an unsafe situation on the field must call “Hold.” The marshals should see that the problem is corrected before continuing.
 
