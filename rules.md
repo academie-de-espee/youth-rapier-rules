@@ -15,14 +15,12 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 1. Adults may work with youths in controlled practice or training situations. Any such practices or training must conform to Societies rules on Youth Activities including background check and 2 non related adult standards (full requirements found under Society Youth Policy)
 2. Youths need not be authorized to practice or train. Youths must have a Permission to Practice card as issued by the MOL office to practice at official practices. Youths must be authorized by the Youth Rapier Marshallate to participate in tournaments.
 3. Youth rapier fighters and their parents/ legal guardian must attend the youth rapier fighter class prior to their first authorization.
-4. Youth rapier fighters in Divisions 3 and 4 may fight with ‘light rapiers'. Light rapiers are considered to be foils or epees, per 3.8.4.5.1.
-5. Participants will be divided into 4 divisions:
-    1. Division 1 will be for youths ages 6-9. Division 1 may authorize plastic rapier only.
-    2. Division 2 will be for youths ages 10-11. Division 2 may authorize in plastic rapier, rubber daggers and padded parry devices.
-    3. Division 3 will be those youths ages 12 and up. Division 3 fighters may authorize in light rapier and defensive secondary.
-    4. Division 4 is for fighters age 12 and up with experience. Division 4 fighters may authorize in light rapier and offensive secondary. Secondaries are a separate authorization in each division.
-6. In tournaments, youths will compete with those from the same division.
-    1. Youth rapier combat will be conducted one-on-one for fighters in any division. Only those youth fighters in Division 4 may participate in melees.
+4. Participants will be divided into the following divisions:
+    1. Division 1 will be for youths ages 6-9, and may authorize in plastic rapier.
+    2. Division 2 will be for youths ages 10-13, and may authorize in plastic rapier and light rapier.
+    3. Division 3 will be for youths ages 14-17, and may authorize in light rapier and heavy rapier.
+5. In tournaments, youths will compete with those from the same division.
+    1. Youth rapier combat will be conducted one-on-one for fighters in any division. Only those youth fighters in Division 3 may participate in melees.
 
 ## Rules of the Field
 1. Youth rapier will not be conducted on the same field at the same time as any other activities.
