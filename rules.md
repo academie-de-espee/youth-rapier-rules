@@ -43,7 +43,6 @@ Marshals for Youth Rapier exist within the structure established under the Crown
     2. A warranted Youth Rapier Marshal is a person at least age 18 who in addition to their reporting duties as a kingdom or atlarge officer:
         1. Is allowed to teach the pre-authorization class
         2. Is allowed to authorize youth combatants in all weapon combinations
-        3. It is strongly suggested that a Youth Rapier Marshal have a current authorization to marshal Adult Rapier combat.
 2. Requirements to become a Youth Rapier Marshal
     1. In addition to completing the Apprentice Marshal process, youth rapier marshals must do the following:
         1. Maintain an active Rapier Marshal warrant
