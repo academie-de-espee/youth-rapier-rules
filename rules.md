@@ -18,7 +18,7 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 4. Youth rapier fighters in Divisions 3 and 4 may fight with ‘light rapiers'. Light rapiers are considered to be foils or epees, per 3.8.4.5.1.
 5. Participants will be divided into 4 divisions: Division 1 will be for youths ages 6-9. Division 1 may authorize plastic foil only.  Division 2 will be for youths ages 10-11. Division 2 may authorize in plastic foil, rubber daggers and padded parry devices. Division 3 will be those youths ages 12 and up. Division 3 fighters may authorize in light rapier and defensive secondary. Division 4 is for fighters age 12 and up with experience. Division 4 fighters may authorize in light rapier and offensive secondary. Secondaries are a separate authorization in each division.
 6. In tournaments, youths will compete with those from the same division.
-    1. Youth rapier combat will be conducted one-on-one for fighters in any division. Only those youth fighters in Division 4 may participate in melees. 
+    1. Youth rapier combat will be conducted one-on-one for fighters in any division. Only those youth fighters in Division 4 may participate in melees.
 
 ## Rules of the Field
 1. Youth rapier will not be conducted on the same field at the same time as any other activities.
@@ -54,44 +54,9 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 11. Engaging in youth rapier with the deliberate intent to inflict injury on an opponent is strictly forbidden.
 12. Upon hearing the call of “Hold” all fighting shall immediately stop.  The fighters shall freeze, check for hazards in their immediate vicinity, and then assume a non-threatening position with their weapons pointed away from their opponents. "Hold" will be called by the marshals or any others present, including fighters, on the field, when unsafe or obstructive actions are noticed or any other significant concern is manifest.
 
-## Protective Equipment Standards
-1. General Requirements
-    1. All protective equipment must be tested prior to initial use.  Subsequent testing will take place at the discretion of the marshallate. It is the participant’s and their parent's or legal guardian's responsibility to be sure that equipment is tested and meets these standards.
-    2. All equipment should be inspected before use at any kingdom event by a marshal.
-    3. All required protection shall be constructed and worn so as to provide the specified coverage in all combat situations, regardless of stance or maneuver.
-    4. No piece of armor or protection that will prevent the wearer from properly judging the validity of blows shall be allowed.
-2. Specific Standards
-    1. Overall: Abrasion-resistant material is the minimum allowable protection for any area of the body. All portions of the body not specifically requiring the heavier protection detailed below will be covered with abrasion-resistant material. See Materials Standards below.
-    2. Face/Head: The face must be covered by a sport fencing legal 12 kilogram mesh mask. The sides of the head back to and including the ears must be covered with 12-kg mesh or rigid material, excluding leather. The back of the head must be covered with at least puncture resistant material. This protection must be fastened securely so as not to come off during combat. See Materials Standards below.
-    3. Neck: All youths will wear neck protection covering (at minimum) the entire throat and the sternal notch, and the cervical spine. This protection will be a rigid gorget per Society standards.
-    4. Torso: The torso is defined so as to include the chest from the neck out to the shoulder joint, the back from the neck to the top of the pelvis out to the shoulder joints, the abdomen, groin, and sides from the top of the pelvis up to and including the armpits. The torso shall be covered with puncture-resistant material. See Society Rapier rules for the definition of the material standards.
-        1. Acceptable minimum armpit coverage is provided by a triangle extending from the armpit seam, covering the lower half of the sleeve at the seam, and extending down the inner/under arm, one-third the distance to the fighter's elbow.
-        2. Male participants shall wear an athletic cup or similar rigid protection. All holes large enough to admit a broken blade will be covered on the outside with puncture resistant material.
-        3. Female participants are NOT required but are encouraged to consider using breast protection and a female athletic cup or similar protection.
-    5. Participants must wear properly fitting, closed-toe shoes that provide safe reliable footing. Sandals with socks are not sufficient footwear for youth participants.
-
-## Weapons and Secondaries
-1. Bladed weapons:
-    1. Sport fencing legal foils and epees are the standard weapons for Atlantian Youth Rapier Divisions 3 and 4.
-    2. Nasycon "Aramis" type plastic foils are the only approved plastic foils for Atlantian Youth Rapier Divisions 1 and 2.  Nasycon "Aramis" foils may be purchased from Leon Paul USA, Zivkovic Modern Fencing Equipment, and www.fencing.net.
-    3. The epee should be a single wide non electric practice blade of any length.
-    4. Metal, commercially produced daggers will be the Atlantian Standard Youth daggers. The use of “flexidagger” dagger blades will be allowed. Use of daggers requires an Offensive Secondary Authorization.
-    5. Atlantian Youth Rapier fighters in Division 2 may use a flexible rubber dagger such as the Revival Rubber Rondel Dagger (www.revival.us). Youth Marshals shall inspect daggers to ensure adequate flexibility. Use of the rubber rondel dagger is only allowed for Division 2 fighters, and requires a separate authorization.
-    6. Quillions or cross guards, if used, may not be designed to entrap or break a blade.
-    7. Orthopedic (or "pistol") grips will not be used.
-    8. Blades must be of commercial manufacture. Blades may not be altered by filing, cutting, heating, hammering, or other such actions that could significantly alter their temper, flexibility, or durability. Normal combat stresses and blade care do not violate this rule. The tang of the weapon may be altered to facilitate attaching handles, hilts and/or pommels.
-    9. Blade ends must be capped with a manufactured rubber or plastic tip. These tips will be at least 3/8 inch (9mm) in diameter. They will be firmly affixed to the blade and be taped at the base with tape of a color contrasting with the blade and the tip.
-    10. Blades with serious defects, such as kinks, sharp bends, cracks, or irrecoverable "S" bends shall not be used.
-2. Secondary Devices: Shall consist of two types: Offensive secondaries and Defensive secondaries. Defensive secondaries will be a separate authorization from offensive secondaries.
-    1. Offensive Secondaries: a device used in addition to the rapier blade to deflect an opponent's weapon and/or secondary that may also be used to attack an opponent. This requires a separate authorization. These include but are not limited to:
-        1. Dagger: a long knife that must be constructed so as to meet the rules for bladed weapons.
-        2. Case or second rapier: using two rapiers, one in each hand.
-        3. All other offensive secondaries will be considered nonstandard and must be approved by a marshal designated by the Kingdom Youth Rapier Marshal in addition to the regular inspection process.
-    2. Defensive Secondaries: a rigid or non-rigid item used in addition to the rapier blade to deflect an opponent's weapon and/or secondary. This requires a separate authorization.  These include but are not limited to:
-        1. Bucklers: A small, rigid shield. A buckler shall be constructed of lightweight, sturdy materials, resistant to splintering and breakage. Division 2 bucklers must have padded edges.
-        2. Cloaks: a non-rigid item that must be recognizable as a cloak, though the size, weight, and shape are left to the discretion of the user. They may be weighted using soft hem weights such as rolled cloth or rope. Metal or rigid weights or fastenings are not allowed for weighting the hem.
-        3. All other defensive secondaries will be considered nonstandard and must be approved by a marshal designated by the Kingdom Youth Rapier Marshal in addition to the regular inspection process. Any other secondaries used for Division 2 must be padded.
-3. Any weapon or secondary that is likely to seriously injure a combatant or to entangle, break, or otherwise damage equipment is prohibited. Thus, equipment with small, rigid openings large enough to admit a tipped foil or epee may not be used.
+## Weapons and Armor Standards
+1. Atlantia follows the Corporate Rules for Youth Rapier found at the Society Youth Marshals Web Site at http://www.sca.org/officers/marshal/youthcombat/docs.html, with the following modifications:
+    1. Heavy Rapier blade tips must follow Atlantia Rapier Policies.
 
 ## Marshaling
 Marshals for Youth Rapier exist within the structure established under the Crown and Earl Marshal of Atlantia. All marshals for Youth rapier activities are warranted, have authority and are expected to conduct themselves as warranted marshals of this Kingdom, according to Kingdom Law and the Policies of the Earl Marshal.
