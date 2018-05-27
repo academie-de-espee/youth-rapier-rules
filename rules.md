@@ -36,8 +36,9 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 ## Marshaling
 Marshals for Youth Rapier exist within the structure established under the Crown and Earl Marshal of Atlantia. All marshals for Youth rapier activities are warranted, have authority and are expected to conduct themselves as warranted marshals of this Kingdom, according to Kingdom Law and the Policies of the Earl Marshal.
 
-1. Youth Rapier Marshals: The Kingdom Youth Rapier Marshal will be responsible for issuing Youth Rapier Marshal warrants.
-    1. A warranted Youth Rapier Marshal is a person at least age 18 who in addition to their reporting duties as a kingdom or atlarge officer:
+1. Youth Rapier Marshals
+    1. The Kingdom Youth Rapier Marshal will be responsible for issuing Youth Rapier Marshal warrants.
+    2. A warranted Youth Rapier Marshal is a person at least age 18 who in addition to their reporting duties as a kingdom or atlarge officer:
         1. Is an authorized Youth Rapier Marshal
         2. Is allowed to teach the pre-authorization class
         3. Is allowed to authorize youth combatants in all weapon combinations
