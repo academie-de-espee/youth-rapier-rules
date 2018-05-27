@@ -39,10 +39,9 @@ Marshals for Youth Rapier exist within the structure established under the Crown
 1. Youth Rapier Marshals
     1. The Kingdom Youth Rapier Marshal will be responsible for issuing Youth Rapier Marshal warrants.
     2. A warranted Youth Rapier Marshal is a person at least age 18 who in addition to their reporting duties as a kingdom or atlarge officer:
-        1. Is an authorized Youth Rapier Marshal
-        2. Is allowed to teach the pre-authorization class
-        3. Is allowed to authorize youth combatants in all weapon combinations
-        4. It is strongly suggested that a Youth Rapier Marshal have a current authorization to marshal Adult Rapier combat.
+        1. Is allowed to teach the pre-authorization class
+        2. Is allowed to authorize youth combatants in all weapon combinations
+        3. It is strongly suggested that a Youth Rapier Marshal have a current authorization to marshal Adult Rapier combat.
 2. Marshallate responsibilities
     1. All Youth Rapier Marshals are required to attend the following classes:
         1. Rapier Marshal 101
@@ -61,6 +60,6 @@ Marshals for Youth Rapier exist within the structure established under the Crown
 ## Responsibilities of Parents/ Legal Guardians
 1. Parents/legal guardians are to understand this is a contact sport and that injuries may occur.
 2. The responsible adult, per 3.8.3.1, is to behave in a courteous and responsible manner at all times.
-3. The parents/legal guardians are urged to become an authorized Youth Rapier Marshal so that they can work closely with their child in this activity.
+3. The parents/legal guardians are urged to become an warranted Youth Rapier Marshal so that they can work closely with their child in this activity.
 4. The parents/legal guardians are responsible for their child's safety, with the Youth Rapier Marshals guiding the armoring/safety process.
 5. The parents/legal guardians are required to read and understand these rules and standards and are to make sure that their child follows them.
