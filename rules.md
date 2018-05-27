@@ -43,7 +43,10 @@ Marshals for Youth Rapier exist within the structure established under the Crown
         3. Is allowed to authorize youth combatants in all weapon combinations
         4. It is strongly suggested that a Youth Rapier Marshal have a current authorization to marshal Adult Rapier combat.
 2. Marshallate responsibilities
-    1. All Youth Rapier Marshals are required to attend prewarranting classes. These consist of Field Marshal 201, the Rapier Marshal 101 class, and the appropriate youth marshal class(es).
+    1. All Youth Rapier Marshals are required to attend the following classes:
+        1. Rapier Marshal 101
+        2. Youth Rapier Marshal 101
+        3. Field Marshal 201
     2. At least one (1) Youth Rapier Marshal must be present for any practice bouts.
     3. At least (1) Youth Rapier Marshal and one other Youth Rapier Marshal or Youth Rapier Marshal-in-training must be on the field for any tournament rapier bout. (The Adult Rapier Marshal warrant is NOT a substitute for the Youth Rapier Marshal warrant.)
     4. Rapier marshals are responsible for combat safety. This includes, but is not limited to, checking weapons and equipment, observing combat, warning a combatant of inappropriate or dangerous actions, disallowing dangerous weapons, and, if necessary, removing a combatant from the field.
