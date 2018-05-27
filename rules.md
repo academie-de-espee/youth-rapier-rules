@@ -8,7 +8,7 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 3. Youth participants must have a Youth Rapier Authorization to participate in tournaments. See Authorization and Training for more information.
 4. To participate in any aspect of youth rapier, a youth must:
     1. Show a blue SCA membership card OR
-    2. Have a signed Minor's Consent to Participate Form The Youth's Responsible Adult, per 3.8.3.1, may sign a Minors Consent to Participate Form for the youth for each event or practice.
+    2. The Youth's Responsible Adult, per 3.8.3.1, may sign a Minors Consent to Participate Form for the youth for each event or practice.
 5. To participate in training, practice or in tournament a youth must have their Responsible Adult, per 3.8.3.1, present.
 
 ## Authorization and Training
