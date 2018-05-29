@@ -11,17 +11,15 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
     2. The Youth's Responsible Adult, per 3.8.3.1, may sign a Minors Consent to Participate Form for the youth for each event or practice.
 5. To participate in training, practice or in tournament a youth must have their Responsible Adult, per 3.8.3.1, present.
 6. All youth rapier combat must follow participation policies set forth in 3.8.3.
-
-## Authorization and Training
-2. Youths must have a "Permission to Practice" card as issued by the MOL office to practice or train rapier combat.
-3. Youths must be authorized in their current division of youth rapier to participate in tournaments or melees.
-4. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
 5. Participants will be divided into the following divisions:
     1. Division 1 will be for youths ages 6-9, and may authorize in plastic rapier.
     2. Division 2 will be for youths ages 10-13, and may authorize in plastic rapier and light rapier.
     3. Division 3 will be for youths ages 14-17, and may authorize in light rapier and heavy rapier.
 6. In tournaments, youths will compete with those from the same division.
     1. Youth rapier combat will be conducted one-on-one for fighters in any division. Only those youth fighters in Division 3 may participate in melees.
+
+## Training
+2. Youths must have a "Permission to Practice" card as issued by the MOL office to practice or train rapier combat.
 7. Adults may train with youths under the following restrictions:
     1. Biological parents, adoptive parents, or any court appointed legal guardian may always work with their youths.
     1. Adults authorized in light rapier may work with youths in Division 1 or Division 2 in controlled practice or training situations.
@@ -29,6 +27,9 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
     1. Adults working with youths must follow the same weapon and armor standards.
 8. Any youth authorized in adult rapier may not hold a youth rapier authorization.
 
+## Authorizations
+3. Youths must be authorized in their current division of youth rapier to participate in tournaments or melees.
+4. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
 
 ## Conventions of Combat
 1. Youth rapier follows the rapier conventions of combat for Atlantia with the following modifications:
