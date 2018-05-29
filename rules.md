@@ -11,7 +11,7 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
     2. The Youth's Responsible Adult, per 3.8.3.1, may sign a Minors Consent to Participate Form for the youth for each event or practice.
 5. To participate in training, practice or in tournament a youth must have their Responsible Adult, per 3.8.3.1, present.
 6. All youth rapier combat must follow participation policies set forth in 3.8.3.
-5. Participants will be divided into the following divisions:
+7. Participants will be divided into the following divisions:
     1. Division 1 will be for youths ages 6-9, and may authorize in plastic rapier.
     2. Division 2 will be for youths ages 10-13, and may authorize in plastic rapier and light rapier.
     3. Division 3 will be for youths ages 14-17, and may authorize in light rapier and heavy rapier.
@@ -25,11 +25,11 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
     1. Adults authorized in light rapier may work with youths in Division 1 or Division 2 in controlled practice or training situations.
     1. Adults authorized in heavy rapier may work with youths in Division 3 using heavy rapier in controlled practice or training situations.
     1. Adults working with youths must follow the same weapon and armor standards.
-8. Any youth authorized in adult rapier may not hold a youth rapier authorization.
 
 ## Authorizations
-3. Youths must be authorized in their current division of youth rapier to participate in tournaments or melees.
-4. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
+1. Youths must be authorized in their current division of youth rapier to participate in tournaments or melees.
+2. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
+3. Any youth authorized in adult rapier may not hold a youth rapier authorization.
 4. Youth Rapier Marshals must witness the authorization and work with the MOL to ensure the required paperwork is complete paperwork.
     1. Authorizations are done per age group and weapon type.
     2. Authorizations shall be conducted in a manner appropriate for the division.
