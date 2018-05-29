@@ -33,6 +33,7 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 4. Youth Rapier Marshals must witness the authorization and work with the MOL to ensure the required paperwork is complete paperwork.
     1. Authorizations are done per age group and weapon type.
     2. Authorizations shall be conducted in a manner appropriate for the division.
+5. A Responsible Adult, per 3.8.3.1, must be present for their child's authorization.
 6. All youth combatants must reauthorize when changing divisions.  Youths are expected to practice at the next division before authorizing.
 7. A combatant with a valid authorization may continue to participate in their current division if they fail an authorization for the next division.
 
