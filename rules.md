@@ -13,7 +13,6 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 
 ## Authorization and Training
 1. Adults may work with youths in controlled practice or training situations.
-2. Youths need not be authorized to practice or train.
 3. Youths must have a "Permission to Practice" card as issued by the MOL office to practice or train rapier combat.
 3. Youths must be authorized in their current division of youth rapier to participate in tournaments or melees.
 3. Youths and their Responsible Adult must attend the youth rapier fighter class prior to their first authorization.
