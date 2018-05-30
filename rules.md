@@ -26,16 +26,16 @@ The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practic
 
 ## Authorizations
 1. Youths may only participate in tournaments or melees with an authorization.
-1. Youths may only participate in tournaments or melees with those from the same division.
-1. Youths may only participate in melees with a Division 3 authorization.
-2. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
-3. Any youth authorized in adult rapier may not hold a youth rapier authorization.
-4. Youth Rapier Marshals must witness the authorization and work with the MOL to ensure the required paperwork is complete paperwork.
+2. Youths may only participate in tournaments or melees with those from the same division.
+3. Youths may only participate in melees with a Division 3 authorization.
+4. Youths and their Responsible Adult, per 3.8.3.1, must attend the youth rapier fighter class prior to their first authorization.
+5. Any youth authorized in adult rapier may not hold a youth rapier authorization.
+7. Youth Rapier Marshals must witness the authorization and work with the MOL to ensure the required paperwork is complete paperwork.
     1. Authorizations are done per age group and weapon type.
     2. Authorizations shall be conducted in a manner appropriate for the division.
-5. A Responsible Adult, per 3.8.3.1, must be present for their child's authorization.
-6. All youth combatants must reauthorize when changing divisions.  Youths are expected to practice at the next division before authorizing.
-7. A combatant with a valid authorization may continue to participate in their current division if they fail an authorization for the next division.
+8. A Responsible Adult, per 3.8.3.1, must be present for their child's authorization.
+9. All youth combatants must reauthorize when changing divisions.  Youths are expected to practice at the next division before authorizing.
+10. A combatant with a valid authorization may continue to participate in their current division if they fail an authorization for the next division.
 
 ## Conventions of Combat
 1. Youth rapier follows the rapier conventions of combat for Atlantia with the following modifications:
