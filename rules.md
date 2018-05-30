@@ -62,8 +62,7 @@ Marshals for Youth Rapier exist within the structure established under the Crown
     1. Teach the pre-authorization class to potential parents and youth combatants.
     2. Perform authorizations in all divisions
     3. Perform inspections prior to combat, in the presence of the parent or legal guardian of the combatant.
-    4. Actively manage combat.
-    5. Take an active role in safety, sportsmanship, and assistance with blow calling.
+    5. Take an active role in combat management, sportsmanship, and assistance with blow calling.
 
 ## Responsibilities of Parents/ Legal Guardians
 1. Parents/legal guardians are to understand this is a contact sport and that injuries may occur.
