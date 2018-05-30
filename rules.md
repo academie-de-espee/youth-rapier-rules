@@ -1,6 +1,6 @@
 # Youth Rapier Combat
 
-The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practiced in various fencing schools of Europe during the 15th and 16th centuries. This combat will be one-on-one, and will be used to train younger students in the art of combat with those bated rapiers and various secondaries.  All participants in youth rapier in Atlantia are expected to read and understand these rules before authorization, and are expected to know any changes or updates that occur. Their parents/ legal guardians should read and understand these rules and standards and make sure that their child follows them.
+The goal of Atlantian Youth Rapier is to recreate bated-blade fencing as practiced in various fencing schools of Europe during the 15th and 16th centuries. This combat will be one-on-one, and will be used to train younger students in the art of combat with those bated rapiers and various secondaries.  All participants in youth rapier in Atlantia are expected to read and understand these rules before authorization, and are expected to know any changes or updates that occur.  Their parents/ legal guardians will read and understand these rules and standards and ensure their child follows them.
 
 ## General
 1. Youths participants must be at least 6, but less than 18 years old to participate in Atlantian Youth Rapier.
